@@ -1,4 +1,4 @@
 - 👋🏼 Hi, I'm Jiaxin LU (陆嘉欣 in Chinese).
-- 🌟 I'm currently a master student in the Department of Statistics and Data Science at SUSTech.
-- ✨ My research interests: ✨ Urban Computing; Spatiotemporal Data Mining; Transfer Learning; Optimization
-- ✅ How to reach me: 12332881@mail.sustech.edu.cn
+- 🌟 I'm currently a Ph.D. student in the School of Urban Planning and Design at PKU.
+- ✨ My research interests: ✨ Spatiotemporal Data Mining; Generative Agents (LLMs) and Traffic Behavior Modeling
+- ✅ How to reach me: xinzi7115@163.com
