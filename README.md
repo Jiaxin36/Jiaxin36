@@ -1,4 +1,4 @@
 - 👋🏼 Hi, I'm Jiaxin LU (陆嘉欣 in Chinese).
 - 🌟 I'm currently a Ph.D. student in the School of Urban Planning and Design at PKU.
-- ✨ My research interests: ✨ Spatiotemporal Data Mining; Generative Agents (LLMs) and Traffic Behavior Modeling
+- ✨ My research interests: ✨ Spatiotemporal Data Mining; Generative Agents (LLMs); Traffic Behavior Modeling
 - ✅ How to reach me: xinzi7115@163.com
